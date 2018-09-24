@@ -1,9 +1,9 @@
-#微信小程序开发学习
+# 微信小程序开发学习
 
-###1、下载安装小乌龟TortoiseGit
+### 1、下载安装小乌龟TortoiseGit
 
-####&nbsp;&nbsp;进入小乌龟官网，下载符合自己电脑版本的TortoiseGit，和汉化插件TortoiseGit-LanguagePack。点击安装，安装配置过程中，除了修改安装路径之外，全部默认配置即可。安装完TortoiseGit后，再安装汉化插件。
-###2、了解GitHub项目
+#### &nbsp;&nbsp;进入小乌龟官网，下载符合自己电脑版本的TortoiseGit，和汉化插件TortoiseGit-LanguagePack。点击安装，安装配置过程中，除了修改安装路径之外，全部默认配置即可。安装完TortoiseGit后，再安装汉化插件。
+### 2、了解GitHub项目
 ####&nbsp;&nbsp;airdb/index项目下有一个mkdocs.yml文件，该文件是一个将GitHub项目信息同步到(https://airdb.io)网站的配置文件。该文件中的pages:项之下的每条信息，都是一个文件的位置，对应网站菜单栏中的每一项。
 ###3、使用小乌龟下载、修改并上传GitHub项目
 ####&nbsp;&nbsp;（1）下载。新建一个存放GitHub项目的文件夹，在文件夹中点击右键，在右键菜单中选择Tortoise-clone（克隆）。将GitHub项目的地址(https://github.com/airdb/index)输入到出现窗口的URL地址中，然后在目录中选择新建文件夹的路径，最后确认即可。
