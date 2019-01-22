@@ -9,3 +9,11 @@ bbbbbbbbb
 test merge:
 ccccccc
 ddddddd
+
+aaaaaaa
+bbbbbbb
+ccccccc
+
+ddddddd
+eeeeeee
+fffffff
